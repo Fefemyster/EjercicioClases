@@ -23,7 +23,7 @@ namespace EjercicioClases
             {
                 foreach (var libro in LibrosEnEstante)
                 {
-                    libro.MostrarInformacion(); // Usar método de la clase Libro
+                    libro.MostrarInformacion(); // Este es el metodo de la clase libro
                 }
             }
             else
