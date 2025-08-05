@@ -21,23 +21,23 @@ persona2.Saludar();
 
 
 Libro libro = new Libro();
-libro.Titulo = "Nier";
+libro.Titulo = "NieR: Automata World Guide Volume 1";
 libro.Autor = "Square Enix";
-libro.AñoPublicacion = 2024;
+libro.AñoPublicacion = 2019;
 
 libro.MostrarInformacion();
 
 Libro libro1 = new Libro();
-libro1.Titulo = "Nier2";
+libro1.Titulo = "NieR: Automata World Guide Volume 2";
 libro1.Autor = "Square Enix2";
-libro1.AñoPublicacion = 2025;
+libro1.AñoPublicacion = 2020;
 
 libro1.MostrarInformacion();
 
 Libro libro2= new Libro();
-libro2.Titulo = "Nier3";
-libro2.Autor = "Square Enix3";
-libro2.AñoPublicacion = 2026;
+libro2.Titulo = "NieR Art";
+libro2.Autor = "Koda Kazuma";
+libro2.AñoPublicacion = 2022;
 
 libro2.MostrarInformacion();
 
